@@ -1,6 +1,13 @@
 /**
- * floating modal wrapped as a plugin
+ * jcfloatingmodal v1.0.0
+ * by Joe Chang - http://www.anztc.com
+ *
+ * @license http://www.anztc/licenses/by/1.0/
+ * - Free for use in both personal and commercial projects
+ * - Attribution requires leaving author name, author link, and the license info intact
  */
+
+
 'use strict';
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
