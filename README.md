@@ -6,7 +6,7 @@ floating_modal which can be customised by changing icon, modal contant, position
  Author
 
 by Joe Chang
-http://www.anztc.com/
+http://www.joeportfolio.com.au/
 
  License
 

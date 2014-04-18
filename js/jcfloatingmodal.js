@@ -1,6 +1,6 @@
 /**
  * jcfloatingmodal v1.0.0
- * by Joe Chang - http://www.anztc.com
+ * by Joe Chang - http://www.joeportfolio.com.au/
  *
  * @license http://www.anztc/licenses/by/1.0/
  * - Free for use in both personal and commercial projects
